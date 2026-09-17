@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+.gradle-dist/
+build/
+app/build/
+
+# Android Studio / local machine
+.idea/
+*.iml
+local.properties
+
+# Signing keys - NEVER commit
+*.jks
+*.keystore
+*.key
+
+# APK/AAB build outputs
+*.apk
+*.aab
+
+# Misc
+.DS_Store
+Thumbs.db
