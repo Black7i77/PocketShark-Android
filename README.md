@@ -2,6 +2,12 @@
 
 PocketShark is a Wireshark-style packet inspector designed for an Android phone. It uses Android's approved `VpnService` interface, so live capture does not require root. All inspection stays on the device.
 
+## Official website
+
+**Live site:** https://pocketshark-tfvrit.v2.appdeploy.ai/
+
+Website source: https://github.com/Black7i77/PocketShark-Website
+
 ## What works in v0.2.0
 
 - Live IPv4 capture from apps on the phone
